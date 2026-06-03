@@ -18,3 +18,9 @@ class Student:
             return "C"
         else:
             return "D"
+    def to_dict(self):
+            return{
+                "roll_no": self.roll_no,
+                "name": self.name,
+                "marks": self.marks
+            }

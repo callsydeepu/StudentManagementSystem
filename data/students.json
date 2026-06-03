@@ -1,0 +1,47 @@
+[
+    {
+        "roll_no": 101,
+        "name": "Deepak",
+        "marks": 95
+    },
+    {
+        "roll_no": 102,
+        "name": "Rahul",
+        "marks": 80
+    },
+    {
+        "roll_no": 103,
+        "name": "Priya",
+        "marks": 92
+    },
+    {
+        "roll_no": 101,
+        "name": "Deepak",
+        "marks": 95
+    },
+    {
+        "roll_no": 102,
+        "name": "Rahul",
+        "marks": 80
+    },
+    {
+        "roll_no": 103,
+        "name": "Priya",
+        "marks": 92
+    },
+    {
+        "roll_no": 101,
+        "name": "Deepak",
+        "marks": 95
+    },
+    {
+        "roll_no": 102,
+        "name": "Rahul",
+        "marks": 80
+    },
+    {
+        "roll_no": 103,
+        "name": "Priya",
+        "marks": 92
+    }
+]
